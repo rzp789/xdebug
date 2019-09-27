@@ -1,0 +1,7 @@
+<?php 
+
+$Me = [
+    'Adrien' => 'La teste de buch', 'Magnun 747'
+];
+
+var_dump($Me);
